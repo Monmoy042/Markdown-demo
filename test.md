@@ -9,9 +9,9 @@
     - [Nested Unordered List](#nested-unordered-list)
     - [Ordered List](#ordered-list)
     - [Nested Ordered List](#nested-ordered-list)
-- [Link](###Link)
-- [Image](###Image)
-- [Table](###Table)
+- [Link](#Link)
+- [Image](#Image)
+- [Table](#Table)
 <!-- Heading -->
 # Heading
 # Heading 1
