@@ -8,16 +8,14 @@
     - [Nested Unordered List](#nested-unordered-list)
     - [Ordered List](#ordered-list)
     - [Nested Ordered List](#nested-ordered-list)
-<<<<<<< HEAD
 - [Link](#link)
 - [Image](#image)
 - [Table](#table)
 - [Code Blocks](#Code-block)
-=======
 - [Link](#Link)
 - [Image](#Image)
 - [Table](#Table)
->>>>>>> 6acdcd1c7c3558f088627cf6b52407d7ebaf170c
+
 <!-- Heading -->
 # Heading
 # Heading 1
@@ -118,5 +116,3 @@ Visit [Google](http://www.google.com "Google") for more information
 	ls -lh
 	ls -al 
 ```
-=======
->>>>>>> 6acdcd1c7c3558f088627cf6b52407d7ebaf170c
