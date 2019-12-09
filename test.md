@@ -1,6 +1,5 @@
 <!-- Table of Contents -->
 # Table of Contents 
-- [Table of Contents](#table-of-contents)
 - [Heading](#heading)
 - [Paragraph](#paragraph)
 - [Text Formating](#text-formating)
@@ -9,9 +8,10 @@
     - [Nested Unordered List](#nested-unordered-list)
     - [Ordered List](#ordered-list)
     - [Nested Ordered List](#nested-ordered-list)
-- [Link](###Link)
-- [Image](###Image)
-- [Table](###Table)
+- [Link](#link)
+- [Image](#image)
+- [Table](#table)
+- [Code Blocks](#Code-block)
 <!-- Heading -->
 # Heading
 # Heading 1
@@ -97,4 +97,17 @@ Visit [Google](http://www.google.com "Google") for more information
 |------- |:----|:-------|
 | Monmoy | 25  |Student |
 | Avijit | 25  |Student |
-|        |     |        |
+
+<!-- Code Blocks -->
+### Code block
+```js
+	var country = "Bangladesh";
+	console.log(country);
+```
+
+```bash
+	pwd
+	cd 
+	ls -lh
+	ls -al 
+```
